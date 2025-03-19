@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ZkoiFCza#vBvEhsOTPsTd-8n1JClNzvafMVw8t88NkyYkepH6OyI",
+SESSION_ID: process.env.SESSION_ID || "RoI2SRIR#GFUUVcnqQlvpqj-viaTxzIJOEbY2sVryg_xoVh5cLNY",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*JUST NOW YOUR STATUS SEEN BY DEVIL-TECH-MD 🤍👻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*JUST  🤍👻*",
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -29,15 +29,14 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "2348161563484",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Cʏʙᴇʀ Lᴏᴋᴜ Aꜱʜᴜᴜ Oꜰᴄ",
-// add bot owner name
+OWNER_NAME: process.env.OWNER_NAME || "Cʜɪɴᴅᴜ 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Cʏʙᴇʀ Lᴏᴋᴜ Aꜱʜᴜᴜ Oꜰᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Cʜɪɴᴅᴜ *",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4854y4.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/5XNzHkVp/3908.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> HELLO I AM DEVIL-TECH-MD OWNER CYBER LOKU ASHUU OFC👋 I AM ALIVE NOW!*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> HELLO I AM CHAMA-MD OWNER CYBER LOKU ASHUU OFC👋 I AM ALIVE NOW!*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
