@@ -29,10 +29,10 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "2348161563484",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Cʜɪɴᴅᴜ 
+OWNER_NAME: process.env.OWNER_NAME || "chamindu 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
-DESCRIPTION: process.env.DESCRIPTION || "*© Cʜɪɴᴅᴜ *",
+DESCRIPTION: process.env.DESCRIPTION || "*© chamindu *",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/5XNzHkVp/3908.jpg",
 // add img for alive msg
