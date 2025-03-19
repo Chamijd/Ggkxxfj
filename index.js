@@ -115,8 +115,8 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there DEVIL-TECH-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet DEVIL-TECH-MD WhatsApp Bot.\n\n *Thanks for using DEVIL-TECH-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/deviltech6/DEVIL-TECH-MD\n\n> © Powered BY JawadTechX \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/juroe8.jpg` }, caption: up })
+  let up = `*Hello there CHAMA-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet CHAMA-MD WhatsApp Bot.\n\n *Thanks for using CHAMA-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u\n\n- *YOUR PREFIX:* = " ${prefix} "\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com\n\n> © Powered BY Cʜɪɴᴅᴜ  \ud83d\udda4`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/KxYGBGdf/8947.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -794,7 +794,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("DEVIL-TECH-MD STARTED ✅");
+  res.send("CHAMA-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
