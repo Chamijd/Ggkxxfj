@@ -13,13 +13,13 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*JUST  🤍👻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*JUST NOW YOUR STATUS SEEN BY DEVIL-TECH-MD 🤍👻*",
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "DEVIL-TECH-MD",
+BOT_NAME: process.env.BOT_NAME || "CHAMA-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "DEVIL-TECH-MD",
+STICKER_NAME: process.env.STICKER_NAME || "CHAMA-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -29,10 +29,11 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "2348161563484",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "chamindu 
+OWNER_NAME: process.env.OWNER_NAME || "Cʏʙᴇʀ Lᴏᴋᴜ Aꜱʜᴜᴜ Oꜰᴄ",
+// add bot owner name
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
-DESCRIPTION: process.env.DESCRIPTION || "*© chamindu *",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Cʏʙᴇʀ Lᴏᴋᴜ Aꜱʜᴜᴜ Oꜰᴄ*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/5XNzHkVp/3908.jpg",
 // add img for alive msg
